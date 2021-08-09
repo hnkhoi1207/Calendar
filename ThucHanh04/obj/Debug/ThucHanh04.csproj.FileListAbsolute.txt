@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\bin\Debug\ThucHanh04.exe.config
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\bin\Debug\ThucHanh04.exe
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\bin\Debug\ThucHanh04.pdb
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.Form1.resources
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.Properties.Resources.resources
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.exe
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.pdb
+C:\Users\USER\source\repos\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\bin\Debug\ThucHanh04.exe.config
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\bin\Debug\ThucHanh04.exe
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\bin\Debug\ThucHanh04.pdb
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.Form1.resources
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.Properties.Resources.resources
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.exe
+C:\Users\khoih\OneDrive\Desktop\code\ThucHanh04\ThucHanh04\obj\Debug\ThucHanh04.pdb
